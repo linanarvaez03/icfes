@@ -1,0 +1,5 @@
+{
+  "name": "Simulador ICFES",
+  "description": "Un simulador básico tipo ICFES con lógica controlada para diferentes materias.",
+  "requestFramePermissions": []
+}
